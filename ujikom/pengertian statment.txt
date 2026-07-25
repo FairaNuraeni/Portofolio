@@ -1,0 +1,50 @@
+dalam programming terdapat dua statment control yaitu: - statment control conditional (bersyarat) dan statment control perulangan (looving)
+ statmen control conditional adalah statment control yang digunakan untuk mengatur kapan suatu perintah akan di jalan kan 
+sedang kan statment control perulangan digunakan untuk mengatur printah yang di jalan kan secara berulang ulang 
+
+dalam PHP terdapat dua buah statment control yng termasuk statment control conditional yaitu: - if, -swich.
+statment control looving:- for, - while, -do while, - foreach.
+kalo satu argument penulisan nya gini:
+if (kondisi)
+{
+statment,
+}
+
+[kalo if lain nya]
+if(kondisi)
+{
+statment
+}
+else
+{
+statment foreach
+}
+(kalo bebebrapa argument kaya ini^)
+
+ada nilai variable 
+
+nilai tanda seru dua itu or(!!)
+(konjungsi)menyambung)operator  n memiliki 2 atau  lebih input dan satu  output
+ gerbang ini satu hanya jika semua input nya bernilai 1
+sedangkan jika salah satu inputnya bernilai 0 maka output nya akan bernilai 0(nol)
+cari tabel
+
+or(pilihan)
+gerbang or(disjungsi), juga memiliki dua atau lebih input dan satu output
+gerbang ini menghasilkan output satu jika salah satu atau semua input nya bernilai satu dan menghasilkan output nol jika semua input nya bernilai nol
+
+not(negasi)
+gerbang not hanya memiliki satu input dan satu output
+ gerbang ini menghasilkna output yang merupakan kebalikan dari input nya
+jika inpunya adalah nol maka outputnya adalah satu dan sebaliknya.
+
+simbol simbol ini digunakan nya 
+
+if((($username=='Alif')&&($pass=='1234')||
+($username=='Rara')&&($pass=='4321')),{
+echo"login berhasil";
+else{
+"login gagal"
+}
+
+or akan menjalankan yang benar 
